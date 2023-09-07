@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YadielCruzado
-- 👀 I’m interested in been a full web debeloper
+- 👀 I’m interested in been a full web developer
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on any job that improves my knowledge of programming.
-- 📫 How to reach me email= yadiel.cruzado@upr.edu
+- 📫 How to reach me email = yadiel.cruzado@upr.edu
 
 <!---
 YadielCruzado/YadielCruzado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
