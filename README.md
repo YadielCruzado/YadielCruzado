@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YadielCruzado
-- 👀 I’m interested in been a full web developer
+- 👀 I’m interested in been a full stack web developer
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on any job that improves my knowledge of programming.
 - 📫 How to reach me email = yadiel.cruzado@upr.edu
